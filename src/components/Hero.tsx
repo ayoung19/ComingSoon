@@ -54,7 +54,7 @@ export const Hero = () => {
         <div className="flex items-center justify-center w-full lg:w-1/2">
           <div className="">
             <Image
-              src="/img/1-0-12-1.png"
+              src="/img/1-0-15-1.png"
               width="1280"
               height="800"
               className={"object-cover"}
